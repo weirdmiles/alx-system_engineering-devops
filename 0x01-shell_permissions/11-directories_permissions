@@ -1,2 +1,2 @@
 #!/bin/bash
-/*create file olleh before gitting*/
+chmod a+X *
